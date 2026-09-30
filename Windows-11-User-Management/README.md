@@ -31,3 +31,14 @@ During the Windows 11 virtual machine setup, I had to make sure the Windows 11 I
 - Basic Windows troubleshooting
 - Virtualization
 - Technical documentation
+
+## Screenshots
+
+### User Account
+![HelpdeskUser account] (01-user-account.png)
+
+### File Permissions
+![File permissions] (02-file-permissions.png)
+
+### Successful File Test
+![Successful file test] (03-file-test-success.png)
