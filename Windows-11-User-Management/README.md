@@ -39,5 +39,6 @@ During the Windows 11 virtual machine setup, I had to make sure the Windows 11 I
 
 ### File Permissions
 <img src="./02-file-permissions.png" alt="File permissions">
+
 ### Successful File Test
 <img src="./03-file-test-success.png" alt="Successful file test">
